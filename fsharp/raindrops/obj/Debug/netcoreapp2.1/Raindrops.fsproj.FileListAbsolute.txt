@@ -1,0 +1,13 @@
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.deps.json
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.runtimeconfig.json
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.runtimeconfig.dev.json
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.dll
+C:\Users\codyc\Exercism\fsharp\raindrops\bin\Debug\netcoreapp2.1\Raindrops.pdb
+C:\Users\codyc\Exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.fsprojAssemblyReference.cache
+C:\Users\codyc\Exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.AssemblyInfoInputs.cache
+C:\Users\codyc\Exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.AssemblyInfo.fs
+C:\Users\codyc\Exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.dll
+C:\Users\codyc\Exercism\fsharp\raindrops\obj\Debug\netcoreapp2.1\Raindrops.pdb
